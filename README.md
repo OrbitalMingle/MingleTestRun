@@ -5,8 +5,14 @@
 **Match** Match with a study buddy!
 
 ---
-## Time Period 
-- 10 May: Wireframing (figma)
+## Rough plan
+- 17 - 23 May: Wireframing (figma)
+- 23 - 25 May: DB design
+- 26 May: Start on Laravel backend 
+- 30 May: Milestone 1 submission
+- 1 June: Start on ReactJs front end
+- 24 June: Clean up UI/UX
+- 24 June: Ensure matching algo is running
 
 ---
 ## Documentations
