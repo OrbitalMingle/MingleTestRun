@@ -17,4 +17,4 @@
 ## Project Log
 | Task Done      | Hours spent by Hong Yong | Hours spent by Ricky | Remarks |
 | - | - | - | - |
-| Poster and Video | 10 | 0 |
+| Poster and Video | 8 | 8 |
