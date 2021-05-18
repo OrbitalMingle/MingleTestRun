@@ -24,3 +24,4 @@
 | Task Done      | Hours spent by Hong Yong | Hours spent by Rickie | Remarks |
 | - | - | - | - |
 | Poster and Video | 8 | 8 |
+| Figma | 6 | 6 |
